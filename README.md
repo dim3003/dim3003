@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @dim3003
 University student in Financial Entrepreneurship and Datascience
 
-- 👀 I’m interested in ...
-ML algorithms
-Tensorflow
+- 👀 I’m interested in ... \
+ML algorithms \
+Tensorflow \
 Web application in all shape or forms
 Finding the One Piece
 
