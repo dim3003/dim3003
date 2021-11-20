@@ -5,7 +5,6 @@
     - ML algorithms 
     - Tensorflow 
     - Web application in all shape or forms
-    - Finding the One Piece
 
 - 🌱 I’m currently learning ...
     - Tensorflow
