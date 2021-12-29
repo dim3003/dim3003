@@ -1,20 +1,8 @@
-- 👋 Hi, I’m @dim3003 
-    - University student in Financial Entrepreneurship and Datascience
+Hi, I’m @dim3003 an University student in Financial Entrepreneurship and Datascience
+I’m interested in blockchain and machine learning improvements for the people.
+I’m looking to collaborate on any type of blockchain or machine learning project. 
 
-- 👀 I’m interested in ... 
-    - ML algorithms 
-    - Tensorflow 
-    - Web application in all shape or forms
-
-- 🌱 I’m currently learning ...
-    - Tensorflow
-    - C++
-
-- 💞️ I’m looking to collaborate on ...
-    - ML projects on financial data
-
-- 📫 How to reach me ...\
-    - dimitri.andre@unil.ch
+Email: dimitri.andre@unil.ch
 
 <!---
 dim3003/dim3003 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
