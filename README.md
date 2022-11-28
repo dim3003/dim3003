@@ -1,8 +1,8 @@
-Hi, I’m @dim3003 an University student in Financial Entrepreneurship and Datascience
-I’m interested in blockchain and machine learning improvements for the people.
-I’m looking to collaborate on any type of blockchain or machine learning project. 
+Hi, I’m @dim3003 an University graduate in financial entrepreneurship and data science
+I’m interested in blockchain and making trading bots. 
+I’m looking to collaborate on blockchain or trading related project.
 
-Email: dimitri.andre@unil.ch
+Email: andre.d3003@gmail.com
 
 <!---
 dim3003/dim3003 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
