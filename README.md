@@ -1,9 +1,5 @@
 Hi, I’m @dim3003 an HEC Lausanne Finance graduate with experience in coding.
 
-I’m interested in blockchain and making trading bots. 
-
-I’m looking to collaborate on blockchain or trading related project.
-
 Email: andre.d3003@gmail.com
 
 <!---
