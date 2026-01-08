@@ -1,4 +1,4 @@
-# Hi, I’m André 👋 (@dim3003)
+# Hi, I’m Dimitri 👋 (@dim3003)
 
 📍 Switzerland · 🇨🇭 Swiss Citizen  
 📧 andre.d3003@gmail.com  
